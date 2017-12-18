@@ -2,7 +2,7 @@ International Space Station
 ISS
 Altitude: 450 km
 Speed: 20.000 m/s
-
+Astronauts: 6
 Spacecrafts: 4
 
 ciaone
