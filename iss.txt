@@ -1,5 +1,6 @@
 International Space Station
 ISS
 Altitude: 450 km
+Speed: 20.000 m/s
 
 ciaone
