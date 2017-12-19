@@ -6,6 +6,6 @@ Astronauts: 7
 Spacecrafts: 4
 
 ciaone
-rispondone
+
 
 ground control to Major Tom by Bowie
